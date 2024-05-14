@@ -1,4 +1,1 @@
-This is a test file
-With several
-New
-Lines
+echo this is a test script from github
