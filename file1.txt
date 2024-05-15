@@ -1,2 +1,2 @@
 #!/bin/sh
-echo this is a test script from github
+echo this is a shell test script from github
